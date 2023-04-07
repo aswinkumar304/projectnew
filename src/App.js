@@ -10,7 +10,7 @@ function App() {
      <div>
       <div className='imgs'>
         <div className='container-image'>
-            <img src={profile} alt='profile-image' className='profile'></img>
+            <img src={profile} alt='profile-image' className='profile'/>
         </div>
       </div>
       <div>
