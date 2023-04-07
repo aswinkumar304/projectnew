@@ -1,6 +1,6 @@
 import './App.css';
-import profile from "./image/email.png"
-import email from "./image/a.png"
+import profile from "./image/a.png"
+import email from "./image/email.png"
 import pass from "./image/pass.png"
 
 function App() {
